@@ -9,16 +9,6 @@ I enjoy building **clean, responsive, and user-friendly web applications**, with
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🎯 Frontend-oriented engineer with hands-on industry experience
-- 🧠 Strong foundation in **JavaScript & modern frameworks**
-- 🧩 Enjoy translating **Figma designs into pixel-perfect UIs**
-- 🤝 Team player, experienced in **Scrum & Agile environments**
-- 📚 Constantly learning and improving frontend best practices
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
@@ -37,29 +27,6 @@ I enjoy building **clean, responsive, and user-friendly web applications**, with
 - 🧠 Git & GitHub
 - 🎨 Figma
 - 🔄 Scrum / Agile
-
----
-
-## 💼 Experience
-
-### 🏢 Software Engineer Intern – UI | **Grid Dynamics**
-📅 *Mar 2025 – Sep 2025*
-
-- 🌍 React-based **Air Pollution Web Application**
-- 🔐 Google SSO authentication
-- 🗺️ Interactive map visualizations
-- 🎨 UI implementation from Figma designs
-- 🧪 JavaScript challenges, TypeScript & React best practices  
-👥 Worked in a **3-member frontend team**
-
----
-
-### 🏢 Frontend Web Developer Intern | **Ingsoftware**
-📅 *Oct 2024 – Dec 2024*
-
-- 🖥️ Static website from PSD (HTML, CSS, Bootstrap, JS)
-- 🛒 Web shop application using **Angular**
-- 🔄 Git-based collaboration in Scrum workflow
 
 ---
 
@@ -101,6 +68,23 @@ I enjoy building **clean, responsive, and user-friendly web applications**, with
 - Focus on Angular fundamentals and data flow
 
 👉 More projects: https://github.com/bogdanv4
+
+---
+
+## 💼 Experience
+
+### 🏢 Software Engineer Intern – UI | **Grid Dynamics**
+📅 *Mar 2025 – Sep 2025*
+
+---
+
+### 🏢 Frontend Web Developer Intern | **Ingsoftware**
+📅 *Oct 2024 – Dec 2024*
+
+---
+
+### 🎓 Teaching Associate | **Faculty of Organizational Sciences**
+📅 *Oct 2022 – Oct 2023*
 
 ---
 
